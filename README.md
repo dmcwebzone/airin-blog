@@ -1,4 +1,5 @@
 # Airin Blog - Multipurpose WordPress Theme
+Page theme - https://web-zone.org/airin-blog
 Airin Blog - is a Multipurpose, responsive, fast, minimal magazine theme for blogs and article sites, news and media, with many settings for all occasions.
 Modern minimalism combined with versatility and adaptability.
 Lots of customization options that will provide endless options for creating a unique site.
@@ -9,3 +10,4 @@ Clean code, no frameworks, full support for the WordPress visual customizer.
 Speed, adaptability and modularity. A minimum of scripts for modules to work. Decide for yourself which modules will work.
 SEO optimization with correct titles and markup.
 Adaptation for WooCommerce, Elementor, bbPress, Events Calendar, Jetpack, WPML.
+Watch full demos here - https://airinblog.web-zone.org/demo-0
